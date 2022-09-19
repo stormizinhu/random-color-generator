@@ -14,8 +14,9 @@ body {
     justify-content: center;
     height: 100vh;
     width: 100vw;
+    color: hsl(10, 15, 30)
 }
-#colors {
+.labels {
     display: flex;
     flex-direction: row;
 }
