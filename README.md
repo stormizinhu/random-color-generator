@@ -1,7 +1,7 @@
 # Random Color Generator
 
 ## Resumo
-- Usando EventListener no botão, executo a funçao Math.Random em cada Label, gerando números diferentes, aplicando ao style.backgroundColor e innerHTML, com condicionais se caso algum valor seja baixo (escuro) e dependendo dos outrso 2, a corda fonte muda para branco, para facilitar a leitura, caso não retorna para preto
+- Usando EventListener no botão, executo a funçao Math.Random em cada Label, gerando números diferentes, aplicando ao style.backgroundColor e innerHTML, com condicionais se caso algum valor seja baixo (escuro) e dependendo dos outros 2, a cor da fonte muda para branco, para facilitar a leitura, caso não, retorna para preto
 
 ![Imagem do Projeto](https://i.imgur.com/PUz1qzf.png)
 
